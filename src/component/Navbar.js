@@ -9,17 +9,8 @@ function Navbar() {
           <NavLink to={"/"}>
             <li>Beranda</li>
           </NavLink>
-          <NavLink to={"/team"}>
-            <li>Tim</li>
-          </NavLink>
-          <NavLink to={"/blog"}>
-            <li>Blog</li>
-          </NavLink>
           <NavLink to={"/about"}>
             <li>Tentang</li>
-          </NavLink>
-          <NavLink to={"/services"}>
-            <li>Layanan</li>
           </NavLink>
           <NavLink to={"/contact"}>
             <li>Kontak</li>
