@@ -7,13 +7,13 @@ function Navbar() {
       <h1>Abdillah</h1>
         <ul>
           <NavLink to={"/"}>
-            <li>Beranda</li>
+            <li>Home</li>
           </NavLink>
           <NavLink to={"/about"}>
-            <li>Tentang</li>
+            <li>About</li>
           </NavLink>
           <NavLink to={"/contact"}>
-            <li>Kontak</li>
+            <li>Contact</li>
           </NavLink>
         </ul>
     </nav>
