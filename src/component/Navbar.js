@@ -25,7 +25,6 @@ function Navbar() {
             <li>Kontak</li>
           </NavLink>
         </ul>
-        
     </nav>
   )
 }
