@@ -44,10 +44,7 @@ function Navbar() {
             </li>
             </NavLink>
             <NavLink to={"/contact"}>
-            <li>
-                <a href="#" class="flex md:inline-flex p-4 items-center hover:bg-gray-50">
-                    <span>Contact US</span>
-                </a>
+            <li>Kontak
             </li>
             </NavLink>
         </ul>
