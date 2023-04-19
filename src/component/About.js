@@ -2,10 +2,10 @@ import React from 'react'
 
 function About() {
   componentDidMount() {
-    document.title = 'About';
+    document.title = 'About'
   }
   return (
-    <h1>This is about page.</h1>
+    <h1>This is about page. This is crazy!</h1>
   )
 }
 
