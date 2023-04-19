@@ -4,14 +4,12 @@ import Blog from "./component/Blog";
 import Contact from "./component/Contact";
 import Home from "./component/Home";
 import Navbar from "./component/Navbar";
-import Footer from "./component/Footer";
 import Services from "./component/Services";
 import Team from "./component/Team";
 
 function App() {
   return (
     <>
-    <Footer />
     <Navbar />
 
     <Routes >
