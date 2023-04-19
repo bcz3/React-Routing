@@ -7,7 +7,7 @@ function Navbar() {
   <nav class="nav">
     <div class="nav__data">
       <NavLink to={"/"}>
-        <img src="logon.png" alt="The logo"/>
+        <img src="./logon.png" alt="The logo"/>
       </NavLink>
       <div class="nav__toggle">
         <button class="nav__toggle-menu" id="toggle-menu">
