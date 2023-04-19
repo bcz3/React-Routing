@@ -5,7 +5,7 @@ function Footer() {
     <footer>
       <h1>Ini adalah footer</h1>
     </footer>
-  )
+  );
 }
 
 export default Footer
